@@ -1,5 +1,5 @@
 # Introduzione
-*Come impostare la vostra campagna di Dungeons & Dragons - e rimanere bloccati ad arbitrare sette giorni alla settimana fino alle prime ore del mattino!
+*Come impostare la vostra campagna di Dungeons & Dragons - e rimanere bloccati ad arbitrare sette giorni alla settimana fino alle prime ore del mattino!*
 
 Questo titolo piuttosto descrittivo e lungo appariva all'inizio di un articolo scritto da Gary Gygax per la newsletter di wargaming Europa dell'aprile 1975. L'articolo di Gary suggeriva un processo in cinque fasi che è sia interessante che pratico. Non sono sicuro che sia stato migliorato molto nei decenni successivi di gioco.
 
