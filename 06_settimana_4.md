@@ -1,6 +1,6 @@
 # Settimana 4: Aspetto della città
 
-*Dettaglia la città dove i personaggi si ritireranno per guarire e fare baldoria.*
+*Dettaglia la città dove i personaggi si ritireranno a guarire e fare baldoria.*
 
 "Qui i vostri giocatori troveranno alloggio, compreranno equipaggiamento, assumeranno mercenari, cercheranno aiuto magico e clericale, berranno, giocheranno d'azzardo e si sollazzeranno. [...] Strane torri, un quartiere di ladri e templi di divinità orribili aggiungono maggior sapore al gioco. La 'Gilda dei Ladri', una società di chierici malvagi, una confraternita di uomini di legge e così via portano ancora più interesse. Se alcuni nobili in guerra dal territorio circostante inviano anche grandi gruppi di uomini nel luogo, di tanto in tanto possono verificarsi alcune risse interessanti. Mercanti onesti e disonesti dovrebbero essere indicati, taverne che drogano gli avventori dovrebbero essere parimenti indicate e così via. Siate sicuri di lasciar spazio a ulteriori cose ed espansioni". - EGG
 
