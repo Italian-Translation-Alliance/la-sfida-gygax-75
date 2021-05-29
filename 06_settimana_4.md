@@ -1,4 +1,4 @@
-# Settimana 4: Caratteristiche urbane
+# Settimana 4: Aspetto della città
 
 *Dettaglia la città dove i personaggi si ritireranno per guarire e fare baldoria.*
 
