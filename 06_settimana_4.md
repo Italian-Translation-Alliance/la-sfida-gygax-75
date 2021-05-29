@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Settimana 4: Caratteristiche urbane"
+title: "Settimana 4: Aspetto della città"
 nav_order: 7
 ---
-# Settimana 4: Caratteristiche urbane
+# Settimana 4: Aspetto della città
 
 *Dettaglia la città dove i personaggi si ritireranno per guarire e fare baldoria.*
 
