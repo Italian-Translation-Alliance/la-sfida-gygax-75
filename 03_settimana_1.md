@@ -1,3 +1,9 @@
+---
+layout: default
+title: Settimana 1: Il concetto
+nav_order: 3
+---
+
 # Settimana 1: Il concetto
 *Articolare le grandi idee e raccogliere le fonti.*
 

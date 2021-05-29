@@ -1,3 +1,9 @@
+---
+layout: default
+title: Settimana 3: Il dungeon
+nav_order: 5
+---
+
 # Settimana 3: Il dungeon
 
 *Disegna e immagazzina tre livelli del tuo dungeon.*

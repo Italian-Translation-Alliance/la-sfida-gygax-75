@@ -1,3 +1,8 @@
+---
+layout: default
+title: Come usare questo libro
+nav_order: 2
+---
 # Come usare questo libro
 Quindi, vuoi iniziare la tua campagna. Se è un'idea completamente nuova per te, o se ti siete già cimentato nella costruzione di un mondo prima e hai gettato la spugna dopo pochi giorni di febbrile stesura di appunti, o anche se hai un sacco di grandi idee ma nessuna idea di come iniziare, questa sezione risponde creativamente ad alcune delle domande basilari e alle paure che dovessero mettersi in mezzo. Se ti senti sicuro di te e sei un tipo che "va all'attacco" o se sei un esperto nella costruzione di mondi e vuoi solo provare alla maniera di Gygax, sentiti libero di passare alla Settimana 1 (pagina 7).
 

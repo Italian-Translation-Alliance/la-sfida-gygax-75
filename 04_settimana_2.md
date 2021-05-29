@@ -1,3 +1,9 @@
+---
+layout: default
+title: Settimana 2: L'area circostante
+nav_order: 4
+---
+
 # Settimana 2: L'area circostante
 
 *Map the land around the dungeon and town.*
