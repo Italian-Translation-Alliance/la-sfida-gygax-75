@@ -1,1 +1,0 @@
-# the-gygax-75-challange
