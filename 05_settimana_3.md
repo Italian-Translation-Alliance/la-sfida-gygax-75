@@ -1,6 +1,6 @@
 # Settimana 3: Il dungeon
 
-*Disegna e immagazzina tre livelli del tuo dungeon.*
+*Disegna e riempi tre livelli del tuo dungeon.*
 
 "Il passo 3 [...] è molto difficile e richiede tempo. Ogni livello dovrebbe avere un tema centrale e qualche caratteristica distintiva, per esempio un livello con grandi aree aperte che brulicano di goblin, uno in cui lo schema di base dei corridoi sembra ripetersi all'infinito, uno abitato solo da mostri che vivono o usano il fuoco, ecc. Man mano che ogni livello viene terminato, i vari mezzi per raggiungere i livelli inferiori devono essere digitati e annotati sui livelli inferiori appropriati [...] Un piano accurato di quali mostri e tesori e dove si troveranno in ogni livello è anche estremamente necessario e può richiedere tanto tempo per la preparazione quanto il livello stesso". - EGG
 
