@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Come usare questo libro'
+title: "Come usare questo libro"
 nav_order: 3
 ---
 # Come usare questo libro

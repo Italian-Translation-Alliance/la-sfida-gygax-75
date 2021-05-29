@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Settimana 5: Il vasto mondo'
+title: "Settimana 5: Il vasto mondo"
 nav_order: 8
 ---
 # Settimana 5: Il vasto mondo

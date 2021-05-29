@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduzione
+title: "Introduzione"
 nav_order: 2
 ---
 # Introduzione

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Settimana 1: Il concetto'
+title: "Settimana 1: Il concetto"
 nav_order: 4
 ---
 

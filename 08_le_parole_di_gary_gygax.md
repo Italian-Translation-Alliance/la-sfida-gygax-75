@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Le parole di Gary Gigax
+title: "Le parole di Gary Gigax"
 nav_order: 9
 ---
 # Le parole di Gary Gigax

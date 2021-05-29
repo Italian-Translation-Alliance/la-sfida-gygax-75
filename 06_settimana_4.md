@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Settimana 4: Caratteristiche urbane'
+title: "Settimana 4: Caratteristiche urbane"
 nav_order: 7
 ---
 # Settimana 4: Caratteristiche urbane
