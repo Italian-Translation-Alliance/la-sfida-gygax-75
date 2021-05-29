@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settimana 3: Il dungeon
+title: 'Settimana 3: Il dungeon'
 nav_order: 6
 ---
 

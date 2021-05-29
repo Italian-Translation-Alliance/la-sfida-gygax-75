@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Settimana 2: L'area circostante
+title: 'Settimana 2: L'area circostante'
 nav_order: 5
 ---
 
