@@ -8,7 +8,7 @@ Gygax suggests “sitting down with a large piece of hex ruled paper and drawing
 
 Gygax suggerisce di "sedersi con un grande pezzo di carta a esagoni e disegnare una mappa su larga scala. Una mappa con una scala di 1 esagono = 1 miglio ... sarà più o meno giusta per le operazioni dei giocatori come esplorare, accamparsi, avventurarsi ed eventualmente costruire le loro roccaforti. Anche piccole cose come la capanna di una strega e gli ingressi laterali al dungeon possono essere mostrati sulla mappa. Le caratteristiche centrali della mappa devono essere la città principale e l'entrata del dungeon". - EGG
 
-## Compiti
+### Compiti
 - **Prendi un foglio di carta a esagoni**. Disegnaci sopra quanto segue, un elemento per esagono (o di più se indicato). Dai un nome a tutto ciò che merita un nome. Se non ti senti a tuo agio a disegnare, sono disponibili molti programmi di hex-mapping!
 - Un insediamento di dimensioni significative
 - Due altri insediamenti (accampamenti, città più o meno grandi, un torrione, la casa insolita di una razza di fantasia, ecc.)
@@ -16,17 +16,10 @@ Gygax suggerisce di "sedersi con un grande pezzo di carta a esagoni e disegnare 
 - Un luogo misterioso da esplorare
 - Un ingresso (principale) al dungeon
 
-### Regarding Scale
-If your hex paper contains 23x14 hexes, at a scale of 1:1 (miles to hex) the represented area would be equal to 322 mi², about half the size of greater London. A 1:6 scale would represent 12,432 mi², roughly 1/3 the size of Ireland. You will be tempted to ‘go big’ because you will get caught up in world-building rather than simply defining an area in which to adventure. Stay focused. Scales larger than 1:6 should be dismissed out of hand. There will be time to draw a larger scale map in week 5.
-
 ### Riguardo alla scala
 Se la tua carta a esagoni contiene 23x14 esagoni, in scala 1:1 (miglia per esagono) l'area rappresentata sarebbe pari a 322 mi², circa la metà della grandezza della Grande Londra. Una scala 1:6 rappresenterebbe 12.432 mi², circa 1/3 delle dimensioni dell'Irlanda. Sarai tentato di "fare le cose in grande" perché ti farai prendere dalla costruzione del mondo piuttosto che definire semplicemente un'area in cui avventurarvi. Resta concentrato. Scale più grandi di 1:6 dovrebbero essere scartate a priori. Ci sarà tempo per disegnare una mappa in scala maggiore nella settimana 5.
 
-### Extra Credit
-□Pimp your map. Stain it with coffee, burn the edges a little, or add some color. This will make your map feel like a real document and/or give it a presence at the table.
-□Create a random encounters table. Make a 2d6 table (11 slots numbered 2-12). Put the least dangerous/most common encounters in the middle of the table and the rarest ones at the top and bottom of the list. Consider making a few of the encounters interesting NPCs. And include adventure hooks, like “Three goblins looting the corpse of a dead noble. Characters might recover the body and/or signet ring for a reward.”
-
-## Crediti extra
+### Crediti extra
 - Migliora la tua mappa. Macchiala di caffè, brucia un po' i bordi o aggiungi del colore. Questo farà sentire la tua mappa come un vero documento e/o le darà presenza al tavolo.
 - Crea una tabella degli incontri casuali. Fai una tabella di 2d6 (11 slot numerati da 2 a 12). Metti gli incontri meno pericolosi/più comuni al centro della tabella e quelli più rari in cima e in fondo alla lista. Considera di preparare alcuni degli incontri dei PNG interessanti. E includi agganci per l'avventura, come "Tre goblin che saccheggiano il cadavere di un nobile morto. I personaggi potrebbero recuperare il corpo e/o l'anello con sigillo per una ricompensa".
 
