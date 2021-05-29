@@ -2,6 +2,7 @@
 layout: default
 title: 'Settimana 4: Caratteristiche urbane'
 nav_order: 7
+permalink: /settimana-4/
 ---
 # Settimana 4: Caratteristiche urbane
 

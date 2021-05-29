@@ -2,6 +2,7 @@
 layout: default
 title: Le parole di Gary Gigax
 nav_order: 9
+permalink: /parole-gygax/
 ---
 # Le parole di Gary Gigax
 

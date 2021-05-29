@@ -2,6 +2,7 @@
 layout: default
 title: Introduzione
 nav_order: 2
+permalink: /introduzione/
 ---
 # Introduzione
 *Come impostare la vostra campagna di Dungeons & Dragons - e rimanere bloccati ad arbitrare sette giorni alla settimana fino alle prime ore del mattino!
