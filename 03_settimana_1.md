@@ -7,7 +7,7 @@ nav_order: 4
 # Settimana 1: Il concetto
 *Articolare le grandi idee e raccogliere le fonti.*
 
-"Il passaggio 1 è qualcosa che si fa nella propria testa. Ora i giochi fantasy/swords & sorcery non hanno bisogno di avere una base consolidata per le assunzioni fatte dal suo arbitro (il mio non ce l'ha), tranne quelli che abbracciano tutto il fantasy. Questo tipo di campagna può mescolare qualsiasi o tutte le varie basi che saranno menzionate di seguito - e anche di più.
+"Il passo 1 è qualcosa che si fa nella propria testa. Ora i giochi fantasy/swords & sorcery non hanno bisogno di avere una base consolidata per le assunzioni fatte dal suo arbitro (il mio non ce l'ha), tranne quelli che abbracciano tutto il fantasy. Questo tipo di campagna può mescolare qualsiasi o tutte le varie basi che saranno menzionate di seguito - e anche di più.
 
 Indipendentemente dall'ambientazione che scegliete, tenetela segreta ai vostri giocatori, altrimenti potranno studiare le vostre fonti e diventare subito troppo informati, togliendo così il fascino dell'incertezza. Le ambientazioni costruite sui limiti (se si può parlare di limiti di fantasia) possono essere molto interessanti di per sé, purché la portata dell'ambientazione permetta ai giocatori di dare libero sfogo alla loro immaginazione". - EGG
 
