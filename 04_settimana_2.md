@@ -2,7 +2,6 @@
 layout: default
 title: 'Settimana 2: L'area circostante'
 nav_order: 5
-permalink: /settimana-2/
 ---
 
 # Settimana 2: L'area circostante

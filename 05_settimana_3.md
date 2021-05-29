@@ -2,7 +2,6 @@
 layout: default
 title: 'Settimana 3: Il dungeon'
 nav_order: 6
-permalink: /settimana-3/
 ---
 
 # Settimana 3: Il dungeon

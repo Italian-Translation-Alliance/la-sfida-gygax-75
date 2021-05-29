@@ -2,7 +2,6 @@
 layout: default
 title: 'Settimana 5: Il vasto mondo'
 nav_order: 8
-permalink: /settimana-5/
 ---
 # Settimana 5: Il vasto mondo
 

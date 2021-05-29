@@ -2,7 +2,6 @@
 layout: default
 title: 'Settimana 1: Il concetto'
 nav_order: 4
-permalink: /settimana-1/
 ---
 
 # Settimana 1: Il concetto
