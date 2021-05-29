@@ -6,10 +6,6 @@ nav_order: 5
 
 # Settimana 2: L'area circostante
 
-*Map the land around the dungeon and town.*
-
-Gygax suggests “sitting down with a large piece of hex ruled paper and drawing a large scale map. A map with a scale of 1 hex = 1 mile … will be about right for player operations such as exploring, camping, adventuring, and eventually building their strongholds. Even such small things as a witch's hut and side entrances to the dungeon can be shown on the map. The central features of the map must be the major town and the dungeon entrance.” – EGG
-
 *Mappare il terreno intorno al dungeon e alla città.*
 
 Gygax suggerisce di "sedersi con un grande pezzo di carta a esagoni e disegnare una mappa su larga scala. Una mappa con una scala di 1 esagono = 1 miglio ... sarà più o meno giusta per le operazioni dei giocatori come esplorare, accamparsi, avventurarsi ed eventualmente costruire le loro roccaforti. Anche piccole cose come la capanna di una strega e gli ingressi laterali al dungeon possono essere mostrati sulla mappa. Le caratteristiche centrali della mappa devono essere la città principale e l'entrata del dungeon". - EGG
